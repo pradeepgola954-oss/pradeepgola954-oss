@@ -84,7 +84,7 @@ AWS, EC2, VPC, S3, Linux, CloudWatch
 * 💼 **LinkedIn:** [Pradeep Kumar](https://www.linkedin.com/in/pradeepkumar123ab/)
 * 🐙 **GitHub:** [pradeepgola954-oss](https://github.com/pradeepgola954-oss)
 * 📧 **Email:** [pradeepgola949@gmail.com](mailto:pradeepgola949@gmail.com)
-
+* 📱   Mobile:** 7065471120
 ## 🎯 Career Focus
 
 **AWS Cloud | DevOps | Cloud Infrastructure | CI/CD | Infrastructure Automation**
